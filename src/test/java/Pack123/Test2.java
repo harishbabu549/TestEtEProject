@@ -80,10 +80,6 @@ public class Test2 extends BaseClass {
 		return data;
 	}
 
-	@AfterTest
-	public void quitBrowser() {
-		driver.quit();
-
-	}
+	
 
 }
