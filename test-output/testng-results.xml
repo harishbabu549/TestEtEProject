@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-17T08:06:40 IST" name="Suite" finished-at="2022-05-17T08:12:20 IST" duration-ms="339511">
+    <groups>
+    </groups>
+    <test started-at="2022-05-17T08:06:40 IST" name="Test" finished-at="2022-05-17T08:12:20 IST" duration-ms="339511">
+      <class name="Pack123.Test2">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:Pack123.Test2@791f145a]" started-at="2022-05-17T08:06:40 IST" name="launchbrowser" finished-at="2022-05-17T08:07:21 IST" duration-ms="40973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="launchUrl()[pri:0, instance:Pack123.Test2@791f145a]" started-at="2022-05-17T08:07:21 IST" name="launchUrl" finished-at="2022-05-17T08:07:25 IST" duration-ms="3768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method signature="loginFb(java.lang.String,java.lang.String)[pri:0, instance:Pack123.Test2@791f145a]" started-at="2022-05-17T08:07:26 IST" name="loginFb" data-provider="passData" finished-at="2022-05-17T08:07:47 IST" duration-ms="21176" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harishbabu549@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rainbow@549]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFb -->
+        <test-method signature="loginFb(java.lang.String,java.lang.String)[pri:0, instance:Pack123.Test2@791f145a]" started-at="2022-05-17T08:07:47 IST" name="loginFb" data-provider="passData" finished-at="2022-05-17T08:08:04 IST" duration-ms="16408" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kevvu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[keka]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFb -->
+        <test-method signature="loginFb(java.lang.String,java.lang.String)[pri:0, instance:Pack123.Test2@791f145a]" started-at="2022-05-17T08:08:04 IST" name="loginFb" data-provider="passData" finished-at="2022-05-17T08:08:26 IST" duration-ms="22397" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thisis ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[me]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFb -->
+        <test-method signature="loginFb(java.lang.String,java.lang.String)[pri:0, instance:Pack123.Test2@791f145a]" started-at="2022-05-17T08:08:26 IST" name="loginFb" data-provider="passData" finished-at="2022-05-17T08:09:43 IST" duration-ms="76486" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harishbabu549@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[reyne]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFb -->
+        <test-method signature="loginFb(java.lang.String,java.lang.String)[pri:0, instance:Pack123.Test2@791f145a]" started-at="2022-05-17T08:09:43 IST" name="loginFb" data-provider="passData" finished-at="2022-05-17T08:11:05 IST" duration-ms="82366" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rey]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[neetha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFb -->
+        <test-method signature="loginFbWrongCred()[pri:2, instance:Pack123.Test2@791f145a]" started-at="2022-05-17T08:11:05 IST" name="loginFbWrongCred" finished-at="2022-05-17T08:12:16 IST" duration-ms="70940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFbWrongCred -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:Pack123.Test2@791f145a]" started-at="2022-05-17T08:12:16 IST" name="quitBrowser" finished-at="2022-05-17T08:12:20 IST" duration-ms="3544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- Pack123.Test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

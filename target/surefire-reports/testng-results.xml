@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-10T12:52:55 IST" name="Surefire suite" finished-at="2022-05-10T12:53:51 IST" duration-ms="56410">
+    <groups>
+    </groups>
+    <test started-at="2022-05-10T12:52:55 IST" name="Surefire test" finished-at="2022-05-10T12:53:51 IST" duration-ms="56410">
+      <class name="Pack123.Test2">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:Pack123.Test2@394df057]" started-at="2022-05-10T12:52:55 IST" name="launchApp" finished-at="2022-05-10T12:52:59 IST" duration-ms="4084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="launchUrl()[pri:0, instance:Pack123.Test2@394df057]" started-at="2022-05-10T12:52:59 IST" name="launchUrl" finished-at="2022-05-10T12:53:15 IST" duration-ms="15701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:Pack123.Test2@394df057]" started-at="2022-05-10T12:53:15 IST" name="quitBrowser" finished-at="2022-05-10T12:53:16 IST" duration-ms="1181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:Pack123.Test2@394df057]" started-at="2022-05-10T12:53:16 IST" name="launchApp" finished-at="2022-05-10T12:53:19 IST" duration-ms="2624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="loginFb()[pri:1, instance:Pack123.Test2@394df057]" started-at="2022-05-10T12:53:19 IST" name="loginFb" finished-at="2022-05-10T12:53:37 IST" duration-ms="18522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFb -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:Pack123.Test2@394df057]" started-at="2022-05-10T12:53:37 IST" name="quitBrowser" finished-at="2022-05-10T12:53:38 IST" duration-ms="1283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:Pack123.Test2@394df057]" started-at="2022-05-10T12:53:38 IST" name="launchApp" finished-at="2022-05-10T12:53:43 IST" duration-ms="4097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="loginFbWrongCred()[pri:2, instance:Pack123.Test2@394df057]" started-at="2022-05-10T12:53:43 IST" name="loginFbWrongCred" finished-at="2022-05-10T12:53:50 IST" duration-ms="7765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFbWrongCred -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:Pack123.Test2@394df057]" started-at="2022-05-10T12:53:50 IST" name="quitBrowser" finished-at="2022-05-10T12:53:51 IST" duration-ms="1129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- Pack123.Test2 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
